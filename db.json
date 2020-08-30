@@ -1,1 +1,5 @@
-{"type":"premium","code":6,"result":true,"number_domain":"10000","expiry-date":1673925827,"productname":"Premium Online Product Designer Extension for Magento 1 & 2","data":"Domain is active"}
+{"type":"premium",
+ "code":6,
+ "result":true,
+ "number_domain":"10000",
+ "data":"Domain is active"}
